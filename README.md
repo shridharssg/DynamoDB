@@ -1,9 +1,9 @@
 # DynamoDB
 
--what is dynamoDB
--Why Used
--For which application its suitable
--Amazon DynamoDB Accelerator DAX caching
+- what is dynamoDB
+- Why Used
+- For which application its suitable
+- Amazon DynamoDB Accelerator DAX caching
 - keys - local, global
 - streams
 - joins - modelling
