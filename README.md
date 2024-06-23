@@ -74,6 +74,11 @@ DynamoDB has two ways of fetching a set of records from it: Query and Scan. Whil
 # What is DynamoDB Accelerator?
 DAX (Amazon DynamoDB Accelerator) is a type of in-memory cache. Even when it is millions of requests per second, DynamoDB Accelerator provides a performance up to 10 times the original rate. In addition, it is fully managed and is highly available.
 
+# What are DynamoDB Global Tables?
+DynamoDB Global Tables allow users to replicate their data over different regions of choice. That makes the data highly available and quickly delivered across global applications of enormous size. Every data write made to a global table is replicated over all the regions having replicas of the same table.
+
+# What does BatchGetItem do in DynamoDB?
+BatchGetItem allows retrieving attributes of one or more items from one or more tables using the primary key. There is a limitation of 16MB up to which this operation can return items.
 
 
 
