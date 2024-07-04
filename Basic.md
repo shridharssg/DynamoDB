@@ -1,3 +1,5 @@
+other : https://haithai91.medium.com/dynamodb-core-concept-interview-challenge-c896864799b1
+
 # DynamoDB
 
 - what is dynamoDB
